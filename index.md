@@ -24,7 +24,7 @@ The present Parliament enacted a reform of the system through Law no. 165/2017, 
 The main features of the new electoral system are described below.
 
 
-### The distribution of the national territory
+### **The distribution of the national territory**
 
 With regards the Chamber of Deputies, the national territory is divided into 28 constituencies. For some constituencies, the territory coincides with the entire Region, whereas in other cases the regional territory is divided into several constituencies (2 in Piedmont, 4 in Lombardy, 2 in Veneto, 2 in Lazio, 2 in Campania, 2 in Sicily).
 
@@ -42,7 +42,7 @@ The definition of single-member districts – as well as multi-member districts 
 
 
 
-### How to cast votes
+### **How to cast votes**
 
 Each voter may cast one vote in a single ballot paper, bearing the name of the candidate in the single-member district and the electoral symbol of each list; in case of coalition lists, ballot papers shall include the electoral symbols of such lists, besides the names of the candidates – from two to four – in the multi-member district. Split voting (voto disgiunto) is not allowed.
 
@@ -50,7 +50,7 @@ Each vote is cast by marking the rectangle containing the electoral symbol of th
 
 The procedures on how to cast votes are also described in the outer part of the ballot paper.
 
-### Election thresholds and allocation of seats
+### **Election thresholds and allocation of seats**
 
 In **single-member districts seats** are allocated to the candidate receiving the **highest number of votes validly cast**; in case of a tie, the youngest candidate is elected.
 
