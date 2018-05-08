@@ -5,6 +5,76 @@ Here are bullet points:
 - bullet2
 - bullet3
 
+# Context 
+
+## The 2018 Italian Elections: Background
+
+Italian parliamentary elections are held once every five years to determine the political party or coalition which represents the necessary majority to agree confidence to the executive.
+
+The latter is composed by a cabinet of ministers (Consiglio dei Ministri), chaired by the Prime Minister. 
+
+
+## Electoral System
+
+The new electoral law called ‘Rosatellum’ combines elements of a British-style first-past-the-post system with the more continental proportional representation or PR. Just over a third of seats in each chamber is decided by winner-takes-all votes in individual constituencies. The rest is allocated in proportion to the number of votes each party receives. More or less.
+
+In more detail, the electoral system of the national Parliament is regulated by the Consolidated Law on the election to the Chamber of Deputies (Presidential Decree no. 361/1957) and by the Consolidated Law on the election to the Senate (Legislative Decree no. 533/1993).
+The present Parliament enacted a reform of the system through Law no. 165/2017, introducing a mixed electoral system that includes both single-member districts - to be allocated by means of a majority system - and multi-member districts - allocated through a proportional system. The provisions regulating the election of 12 members of the Chamber of Deputies and 6 Senators in the Overseas Constituency remain unchanged, according to Law no. 459/2001.
+
+The main features of the new electoral system are described below.
+
+
+### The distribution of the national territory
+
+With regards the Chamber of Deputies, the national territory is divided into 28 constituencies. For some constituencies, the territory coincides with the entire Region, whereas in other cases the regional territory is divided into several constituencies (2 in Piedmont, 4 in Lombardy, 2 in Veneto, 2 in Lazio, 2 in Campania, 2 in Sicily).
+
+Each constituency is divided into single-member districts, and in one or more multi-member districts.
+
+The 232 single-member districts of the national territory are distributed in each constituency on the basis of the population. In each district, the candidate obtaining the highest number of votes is elected.
+
+The allocation of the remaining seats is made through a proportional method: each constituency is divided into multi-member districts, made up of the territorial aggregation of neighbouring single-member districts, each one being generally allocated a number of seats ranging between three and eight.
+
+As regards the Senate, the national territory is divided into 20 constituencies corresponding to the territory of each Region. Every regional constituency is divided into single-member districts and in one or more multi-member districts. The national territory is divided into 116 single-member districts.
+
+Multi-member districts are made up of the territorial aggregation of neighbouring single-member districts, each one being generally allocated a number of seats ranging between two and eight.
+
+The definition of single-member districts – as well as multi-member districts – depends on a legislative delegation to be enforced 30 days before the coming into force of the Law, upon parliamentary opinion, on the basis of the criteria and the guiding principles provided for by the law.
+
+
+
+### How to cast votes
+
+Each voter may cast one vote in a single ballot paper, bearing the name of the candidate in the single-member district and the electoral symbol of each list; in case of coalition lists, ballot papers shall include the electoral symbols of such lists, besides the names of the candidates – from two to four – in the multi-member district. Split voting (voto disgiunto) is not allowed.
+
+Each vote is cast by marking the rectangle containing the electoral symbol of the list and the name of the candidate in the multi-member district. The vote is validly cast to the list and to the candidate in the single-member district. In case the mark is put on the name of the candidate to the single-member district only, the vote shall however be valid in favour of the list and for the election of the candidate in the single-member district; in case of several lists within a coalition, the votes will be distributed among the coalition lists proportionally to the votes obtained by each of them in the single-member district.
+
+The procedures on how to cast votes are also described in the outer part of the ballot paper.
+
+### Election thresholds and allocation of seats
+
+In **single-member districts seats** are allocated to the candidate receiving the **highest number of votes validly cast**; in case of a tie, the youngest candidate is elected.
+
+As regards the seats to be allocated to the lists and coalitions of lists in **multi-member districts**, the allocation is performed at a national level for the Chamber of Deputies, through a proportional method, among the coalitions of lists and the lists exceeding the election thresholds.
+
+> The threshold to access the allocation of seats is 3% of the votes validly cast at a national level for single lists, and 10% of the votes validly cast at a national level for coalitions, 
+
+provided that at least one of the lists of the coalition obtained 3% of the votes validly cast at a national level (the threshold for inter-coalition lists is 3% of the votes validly cast at a national level, also in case the coalition does not reach the 10% threshold). As far as coalitions are concerned, the votes obtained by the lists not exceeding the threshold of 1% will not be taken into account.
+
+With regards **the Senate**, the seats to the lists are allocated at a **regional level** through the proportional method.
+The threshold to allocate the seats is set – as it happens with the Chamber of Deputies – at 3% of the votes validly cast at a national level for individual lists, and 10% for coalitions, provided that at least one of the lists in the coalition obtains 3% of the votes validly cast nationally or 20% in a Region (the threshold for inter-coalition lists is in any case 3% of the votes validly cast at a national level or 20% of the valid votes in at least one Region, even in case the coalition does not reach the threshold of 10%). As far as coalitions are concerned, the votes obtained by the lists not exceeding the threshold of 1% will not be taken into account.
+The allocation of regional seats to the Senate also involves the lists – either individual or in coalition – that obtained at least 20% of votes validly cast in at least one Region.
+
+Special provisions protect the lists representing recognised linguistic minorities standing for elections in a Special Autonomous Region whose statutes or relevant laws provide for particular protection of such minorities.
+
+In the particular case of **Valle d'Aosta**, where one seat to the Chamber of Deputies and one seat to the Senate are allocated, special provisions are in force for the election in both chambers of Parliament: a single-member district is established for the election to the Chamber of Deputies and to the Senate, where the candidate obtaining – through the majority method – the highest number of votes validly cast is elected.
+
+Source: Camera dei Deputati, 2018.
+
+
+
+
+---
+
 ## Multimedia Content:
 
 
