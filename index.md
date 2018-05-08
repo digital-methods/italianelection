@@ -1,4 +1,4 @@
-# Introduction
+# Introduction & Purpose
 
 Here are bullet points:
 - bullet1
