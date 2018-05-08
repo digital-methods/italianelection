@@ -1,6 +1,4 @@
-# This is the main title of the page - yeah
-
-# REALLY SUPER EASY
+# Introduction
 
 Here are bullet points:
 - bullet1
