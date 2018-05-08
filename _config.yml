@@ -7,5 +7,5 @@ menu: [
 {'name': 'Data', 'pagename': 'page2'},
 {'name': 'Discussion', 'pagename': 'page3'},
 {'name': 'Limitations & Further Research', 'pagename': 'page4'},
-{'name': 'Conclusion', 'pagename': 'page4'},
+{'name': 'Conclusion', 'pagename': 'page5'},
 ]
