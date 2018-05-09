@@ -17,6 +17,9 @@ The above bar graph demonstrates that the number of comments corresponds to the 
 Thanks to the topic modelling script, we managed to detect the topics who has been discussed the most through comments on the Facebook page of Matteo Renzi, Luigi di Maio and Matteo Salvini. For each visualization, we kept the relevance metric λ  at the value 0.5.
 In the following paragraphs we will analyse each topic for each candidate, in order to show the nature of the online discussions over the Italian elections. 
 
+
+<iframe src="https://documents.cortext.net/7084/70845f6f0d3adab37ca78ec98db9b6da/75862/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+
 ## MATTEO RENZI – Democratic Party 
 
 The most discussed topics on Matteo Renzi’s Facebook page through comments were the following: Economy, Movimento 5 Stelle, the Election’s Program, Confrontation with other candidates, Candidate’s Encouragement and Education. We will now analyze each one of them, specifically. 
@@ -39,6 +42,9 @@ As for every candidate, one topic of the discussion is the Encouragement to the 
 6. Education:
 The last topic that we found among the comments on Renzi’s page is Education. The words that link to this topic are “school”, “people”, “amazing”, “well”, “best, “teachers”, “culture” and “ignorant”. This comments on Renzi’s page are mainly related to his previous School Reform, called “Riforma della Buona Scuola”. Overall, the comments seem positive and supportive. 
 
+
+<iframe src="https://documents.cortext.net/97c7/97c7c6f7e76a8a7ab404118ac40b7850/75861/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+
 ## LUIGI DI MAIO – Five Stars Movement
 
 The five topic that came out in the comment section of Luigi Di Maio’s Facebook page were the following: Movimento 5 Stelle, Candidate’s Encouragement, Vote, Change and Dissatisfaction. 
@@ -58,6 +64,9 @@ The Five Star Movement has often opposed itself to the Italian political scene, 
 
 5. Dissatisfaction: 
 The last topic among the comments is the feeling of dissatisfaction with the current political elite and the Italian situation. The topic includes names of political figures (“Berlusconi”, “Renzi” and “Salvini”), as well as words with a sense of dissatisfaction and will to act (“promises”, “years”, “need”, “let’s take back” “possibilities”). The topic included also references to the electoral law: “votes”, “electoral”, “law” and “campaign”.
+
+
+<iframe src="https://documents.cortext.net/748f/748fd925190b0e593c55d3c36f08434c/75860/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
 ## MATTEO SALVINI – Northern League
 
@@ -81,3 +90,12 @@ Another topic that we found is Nationalism and the Anti-immigrant feeling. This 
 
 6. Vote:
 The final topic that we found among the comments on Salvini’s page is the urgency to vote. The words, that represent this topic, are “League”, “Vote”, “South”, “North”, “Bossi”, “live”, “let’s vote”, “Sunday”, “Rome”, “to vote”, “votes”, “terroni”, “democracy”. It’s interesting to notice that the third most used word of this topic is “South”. Originally the Northern League wanted a separation of the Norht of Italy from the South. Since they were now running for the State’s elections, they had to appeal to the southern voters as well. The previous rhetoric, however, can still be noticed through “Bossi”, the former leader and founder of the party, and the word “terroni”, a derogatory term for Italian citizens who live in the southern regions. 
+
+## OVERALL DATABASE
+
+
+
+
+## CONTINGENCY MATRIX
+
+<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/378742600/content?start_page=1&view_mode=scroll&access_key=key-3vIsqqPBZWu6U3koVAnx&show_recommendations=true" data-auto-height="true" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_81674" width="100%" height="600" frameborder="0"></iframe>
