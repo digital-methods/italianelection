@@ -12,7 +12,7 @@ Hence, we opted instead to look at the comments of the personalities which led (
 
 2. **whether they reflected the themes offered by the platforms of the politicians**. 
 
-3. Sentiment analysis + Contentingency matrix-related RQ
+3. **what emotions were related to these issues, and did they differ between politicians**
 
 ## Hypothesis 
 
