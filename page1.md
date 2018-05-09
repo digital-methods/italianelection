@@ -8,9 +8,11 @@ In terms of time, we chose to focus on the one month before the date of the elec
 
 Hence, we opted instead to look at the comments of the personalities which led (formally or informally) the current three biggest parties in the Italian Parliament: **Matteo Renzi, Luigi di Maio, and Matteo Salvini**. Considering that politicians post in a smaller amount than newspapers, the scraping turned out to me easier and the interest for the analysis remained. By looking at what supporters or detractors were talking about under their Facebook statuses or shared links, we thought we could get an idea about
 
-> **what issues were brought up the most by them, and in particular** 
+1. **what issues were brought up the most by them, and in particular** 
 
-> **whether they reflected the themes offered by the platforms of the politicians**. 
+2. **whether they reflected the themes offered by the platforms of the politicians**. 
+
+3. Sentiment analysis + Contentingency matrix-related RQ
 
 ## Hypothesis 
 
@@ -20,9 +22,9 @@ Finally, we formulated the hypothesis we wanted to test through our study, that 
 
 When looking at the specific cases, this hypothesis eventually turns into **three different hypotheses** to test for each candidate. By looking at the different party programs, we expected the following. 
 
-* With regards to Renzi (Partito Democratico), we expected to see a discourse revolving around the _economic activity_ and _jobs_ with a special focus on _schooling_, _lower taxes_ and some hints of more _European cooperation_. 
-* As for Di Maio (Movimento 5 Stelle), we expected discussions on what seemed to be most important – and controversial – point of his party’s campaign, that of the _basic universal income_. Since that, together with _lower taxes_, this was one of the few prominent topics we could identify, we were interested in exploring what 5 Stars voters also discussed about. 
-* Finally, for Salvini (Lega Nord) our main hypothesis was related to a strong focus on _anti-immigration rhetoric_, which is one of the major stances of the right-wing candidate. In addition, his platform promoted _anti-European stances_, proposals for _lower taxes_ and _pension reforms_: all topics we predicted that would lead the public discourse of his party’s voters.
+1. With regards to Renzi (Partito Democratico), we expected to see a discourse revolving around the _economic activity_ and _jobs_ with a special focus on _schooling_, _lower taxes_ and some hints of more _European cooperation_. 
+2. As for Di Maio (Movimento 5 Stelle), we expected discussions on what seemed to be most important – and controversial – point of his party’s campaign, that of the _basic universal income_. Since that, together with _lower taxes_, this was one of the few prominent topics we could identify, we were interested in exploring what 5 Stars voters also discussed about. 
+3. Finally, for Salvini (Lega Nord) our main hypothesis was related to a strong focus on _anti-immigration rhetoric_, which is one of the major stances of the right-wing candidate. In addition, his platform promoted _anti-European stances_, proposals for _lower taxes_ and _pension reforms_: all topics we predicted that would lead the public discourse of his party’s voters.
 
 ## Methods 
 
