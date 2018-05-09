@@ -166,3 +166,5 @@ The sad reactions were particularly interesting. The highest correlation was bet
 
 It is worth nothing that the other two politicians are negatively correlated with the Renzi topic. The opposite is true for Di Maio - he is moderately positively correlated with the topic about him and his party. This also implies that there were perhaps critical comments on his page, or that his posts indicated that he was feeling attacked.
 
+The last interesting remark about this is the fact that for the topic of taxes, the correlation with Di Maio's is high: this probably shows the concerns of his supporters towards the topic of taxation. 
+
