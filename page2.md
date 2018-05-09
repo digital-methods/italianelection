@@ -2,7 +2,7 @@
 
 ## Statistics
  
- <iframe width="650" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxkKwaZGM4XWeNU6A4B8rpi7sJo_dcCCTqotehotdG3n_9EMr1Zp-5LI42XjvwbWPO4dyodk_yZ5_I/pubchart?oid=332241841&amp;format=interactive"></iframe>
+ <iframe width="680" height="388" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxkKwaZGM4XWeNU6A4B8rpi7sJo_dcCCTqotehotdG3n_9EMr1Zp-5LI42XjvwbWPO4dyodk_yZ5_I/pubchart?oid=332241841&amp;format=interactive"></iframe>
  
  
  The dataset is made out of **3** separate corpora, corresponding to each candidate’s Facebook posts and comment section. A **separate corpus** - used for comparison - merges together all posts and comments for the respective period.
