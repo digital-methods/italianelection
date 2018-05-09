@@ -1,43 +1,12 @@
 
 # Limitations & Further Research
 
-1. text........
-2. text2
-3. text3
+Due to how we compiled our data, we were not able to directly compare the context of the posts. Knowing the topics that the individual politicians discussed could explain many of the salient topics in the comment discourse, which is a key area we are missing. Furthermore, by restricting our dataset to only the top 10% most frequent words, we lost some nuances in the data that could have proven interesting. Some more manual input in cleaning our data would have been highly useful.
 
 
-# Overal cm
-
-<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/378742600/content?start_page=1&view_mode=scroll&access_key=key-3vIsqqPBZWu6U3koVAnx&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_81674" width="100%" height="600" frameborder="0"></iframe>
-
-# Sentiment
+One particular disappointment in our research was that we could not do a sentiment analysis. After running the script, we found that the Italian language option was highly inaccurate. For example, some positive comments were labelled as negative and vice-versa, while some highly negative comments were labelled as neutral. A sentiment analysis regarding how users felt in their comments and how those differed between the politicians would have been particularly interesting. Below is a contingency matrix of the overall sentiment analysis, which does show some interesting trends. That said, due to the gross inaccuracy of the algorithm, commenting on it is not valuable.
 
 <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/378745776/content?start_page=1&view_mode=scroll&access_key=key-IUllg9JTKAquHnuSisYN&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_94742" width="100%" height="600" frameborder="0"></iframe>
-
-# Hahas
-
-<iframe class="scribd_iframe_embed" title="hahas" src="https://www.scribd.com/embeds/378751291/content?start_page=1&view_mode=scroll&access_key=key-FfH0ChRGp0OADMtQfy0p&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_11334" width="100%" height="600" frameborder="0"></iframe>
-
-# Angrys
-
-<iframe class="scribd_iframe_embed" title="angrys" src="https://www.scribd.com/embeds/378751288/content?start_page=1&view_mode=scroll&access_key=key-3P454N9YBstqsDsAzIOv&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_99751" width="100%" height="600" frameborder="0">
-  
-# Wows
-
-<iframe class="scribd_iframe_embed" title="Wows" src="https://www.scribd.com/embeds/378751290/content?start_page=1&view_mode=scroll&access_key=key-aTINAgnKBvZBhSSOCebG&show_recommendations=true" data-auto-height="true" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_51757" width="100%" height="600" frameborder="0">
-
-# Sads
-
-<iframe class="scribd_iframe_embed" title="Sads" src="https://www.scribd.com/embeds/378751293/content?start_page=1&view_mode=scroll&access_key=key-CXqv2i7CGBQdcL1Iywpy&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_12494" width="100%" height="600" frameborder="0"></iframe>
-
-# Loves
-
-<iframe class="scribd_iframe_embed" title="Loves" src="https://www.scribd.com/embeds/378751289/content?start_page=1&view_mode=scroll&access_key=key-Mmsn7Zob8wK3AiU2ou7r&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_13407" width="100%" height="600" frameborder="0"></iframe>
-
-# Likes
-
-<iframe class="scribd_iframe_embed" title="Likes" src="https://www.scribd.com/embeds/378751292/content?start_page=1&view_mode=scroll&access_key=key-RS2JasruKRche8kWBVr6&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_30947" width="100%" height="600" frameborder="0"></iframe>
-
 
 
 
