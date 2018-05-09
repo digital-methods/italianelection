@@ -20,7 +20,7 @@
 
 ### Renzi
 
-![Renzi_Shapes](italianelection/assets/images/renzi_shapes_final.png)
+![Renzi_Shapes](/italianelection/assets/images/renzi_shapes_final.png)
 
 ### Di Maio
 
