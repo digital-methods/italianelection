@@ -9,7 +9,7 @@ The dataset is made out of **3** separate corpora, corresponding to each candida
 
 More specifically, the dataset gathered all comments on the politicians' Facebook pages from one month before the election - that is, from February 2018 to the beginning of March 2018. In total, there are ~800,000 comments on 488 posts. 
 
-The above bar graph demonstrates that the number of comments corresponds to the results of the elections and respectively to the popularity of the candidates. The posts by the far-right Northern League Matteo Salvini invited the largest number of comments (~356,000), followed by Luigi Di Maio from the anti-establishment Five Star Movement with ~277,000. In contrast, Renzi’s posts accumulated only ~160,000 comments, which however, may be due to the lower number of posts on his Facebook page (88 posts versus 200 for Salvini and Di Maio). 
+The above bar graph demonstrates that the number of comments corresponds to the results of the elections and respectively to the popularity of the candidates. The posts by the far-right Northern League Matteo Salvini invited the largest number of comments (~356,000), followed by Luigi Di Maio from the anti-establishment Five Star Movement with ~277,000. In contrast, Renzi’s posts only accumulated ~160,000 comments. This, however, may be due to the lower number of posts on his Facebook page (88 posts versus 200 for Salvini and Di Maio). 
 
  
  
