@@ -18,7 +18,7 @@ Thanks to the topic modelling script, we managed to detect the topics who has be
 In the following paragraphs we will analyse each topic for each candidate, in order to show the nature of the online discussions over the Italian elections. 
 
 
-<iframe src="https://documents.cortext.net/7084/70845f6f0d3adab37ca78ec98db9b6da/75862/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+<iframe src="https://documents.cortext.net/7084/70845f6f0d3adab37ca78ec98db9b6da/75862/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1500" height="800" allowfullscreen></iframe>
 
 ## MATTEO RENZI – Democratic Party 
 
@@ -43,7 +43,7 @@ As for every candidate, one topic of the discussion is the Encouragement to the 
 The last topic that we found among the comments on Renzi’s page is Education. The words that link to this topic are “school”, “people”, “amazing”, “well”, “best, “teachers”, “culture” and “ignorant”. This comments on Renzi’s page are mainly related to his previous School Reform, called “Riforma della Buona Scuola”. Overall, the comments seem positive and supportive. 
 
 
-<iframe src="https://documents.cortext.net/97c7/97c7c6f7e76a8a7ab404118ac40b7850/75861/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+<iframe src="https://documents.cortext.net/97c7/97c7c6f7e76a8a7ab404118ac40b7850/75861/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1500" height="800" allowfullscreen></iframe>
 
 ## LUIGI DI MAIO – Five Stars Movement
 
@@ -66,7 +66,7 @@ The Five Star Movement has often opposed itself to the Italian political scene, 
 The last topic among the comments is the feeling of dissatisfaction with the current political elite and the Italian situation. The topic includes names of political figures (“Berlusconi”, “Renzi” and “Salvini”), as well as words with a sense of dissatisfaction and will to act (“promises”, “years”, “need”, “let’s take back” “possibilities”). The topic included also references to the electoral law: “votes”, “electoral”, “law” and “campaign”.
 
 
-<iframe src="https://documents.cortext.net/748f/748fd925190b0e593c55d3c36f08434c/75860/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+<iframe src="https://documents.cortext.net/748f/748fd925190b0e593c55d3c36f08434c/75860/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1500" height="800" allowfullscreen></iframe>
 
 ## MATTEO SALVINI – Northern League
 
