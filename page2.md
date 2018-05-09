@@ -22,6 +22,8 @@ In the following paragraphs we will analyse each topic for each candidate, in or
 
 ## MATTEO RENZI – Democratic Party 
 
+![Renzi_Shapes](/italianelection/assets/images/renzi_shapes_final.png)
+
 The most discussed topics on Matteo Renzi’s Facebook page through comments were the following: Economy, Movimento 5 Stelle, the Election’s Program, Confrontation with other candidates, Candidate’s Encouragement and Education. We will now analyze each one of them, specifically. 
 
 1. Economy (topic 1): 
@@ -47,6 +49,8 @@ The last topic that we found among the comments on Renzi’s page is Education. 
 
 ## LUIGI DI MAIO – Five Stars Movement
 
+![DiMaio_Shapes](/italianelection/assets/images/dimaio_shapes_final.png)
+
 The five topic that came out in the comment section of Luigi Di Maio’s Facebook page were the following: Movimento 5 Stelle, Candidate’s Encouragement, Vote, Change and Dissatisfaction. 
 As we will see, these topics are very traditional of the Five Star Movement. The party has often based its rhetoric on the urgency to change the Italian political system, which is at the core of the lack of satisfaction of the Italians. 
 
@@ -69,6 +73,8 @@ The last topic among the comments is the feeling of dissatisfaction with the cur
 <iframe src="https://documents.cortext.net/748f/748fd925190b0e593c55d3c36f08434c/75860/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1500" height="800" allowfullscreen></iframe>
 
 ## MATTEO SALVINI – Northern League
+
+![Salvini_Shapes](/italianelection/assets/images/salvini_shapes_final.png)
 
 In the case of Matteo Salvini, the candidate for the Northern League party, we found the six following topics: Retirement Pensions, Taxes, Confrontation with other candidates, Candidate’s Encouragement, Nationalism & Anti-Immigration and Vote. Overall, it is interesting to note that the comments of each topic contain much more confrontational and “attacking” tones, than the comments for the other candidates. In this case they contain swear words, insults. These come up a lot in the topic of retirement, perhaps indicating the people’s anger in this regard.
 
@@ -117,6 +123,13 @@ In the overall database, we found seven coherent topics.
 
 
 7. Employment and Retirement (topic 10)
+
+![ALL_shapes](/italianelection/assets/images/all_shapes_final1.png)
+
+![Alluviade](/italianelection/assets/images/alluviade_final.png)
+
+_Encouragement of candidates_ is present in the comment sections of all three political figures. _Movimento 5 Stelle_ was found only in Renzi and Di Maio's pages. In contrast, _Employment_ and _Education_ are dominant topics only in, respectively, Salvini's and Renzi's databases.
+
  
 
 
