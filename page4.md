@@ -43,7 +43,7 @@ One particular disappointment in our research was that we could not do a sentime
 
 ### Aluviade
 
-![Alluviade](/italianelection/assets/images/alluviade.png)
+![Alluviade](/italianelection/assets/images/alluviade_final.png)
 
 
 
