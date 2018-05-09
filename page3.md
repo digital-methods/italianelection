@@ -1,4 +1,18 @@
-# Analysis
+# Data
+
+## Statistics
+ 
+ <iframe width="680" height="388" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxkKwaZGM4XWeNU6A4B8rpi7sJo_dcCCTqotehotdG3n_9EMr1Zp-5LI42XjvwbWPO4dyodk_yZ5_I/pubchart?oid=332241841&amp;format=interactive"></iframe>
+ 
+ 
+The dataset is made out of **3** separate corpora, corresponding to each candidate’s Facebook posts and comment section. A **separate corpus** - used for comparison - merges together all posts and comments for the respective period.
+
+More specifically, the dataset gathered all comments on the politicians' Facebook pages from one month before the election - that is, from February 2018 to the beginning of March 2018. In total, there are ~800,000 comments on 488 posts. 
+
+The above bar graph demonstrates that the number of comments corresponds to the results of the elections and respectively to the popularity of the candidates. The posts by the far-right Northern League Matteo Salvini invited the largest number of comments (~356,000), followed by Luigi Di Maio from the anti-establishment Five Star Movement with ~277,000. In contrast, Renzi’s posts only accumulated ~160,000 comments. This, however, may be due to the lower number of posts on his Facebook page (88 posts versus 200 for Salvini and Di Maio). 
+
+
+# Analysis - Topic Modelling
 
 Thanks to the topic modelling script, we managed to detect the topics who has been discussed the most through comments on the Facebook page of Matteo Renzi, Luigi di Maio and Matteo Salvini. For each visualization, we kept the relevance metric λ  at the value 0.5.
 In the following paragraphs we will analyse each topic for each candidate, in order to show the nature of the online discussions over the Italian elections. 
