@@ -24,19 +24,19 @@
 
 ### Di Maio
 
-![DiMaio_Shapes](italianelection/assets/images/dimaio_shapes_final.png)
+![DiMaio_Shapes](/italianelection/assets/images/dimaio_shapes_final.png)
 
 ### Salvini
 
-![Salvini_Shapes](italianelection/assets/images/salvini_shapes_final.png)
+![Salvini_Shapes](/italianelection/assets/images/salvini_shapes_final.png)
 
 ### All
 
-![ALL_shapes](italianelection/assets/images/all_shapes_final1.png)
+![ALL_shapes](/italianelection/assets/images/all_shapes_final1.png)
 
 ### Aluviade
 
-![Alluviade](italianelection/assets/images/alluviade.png)
+![Alluviade](/italianelection/assets/images/alluviade.png)
 
 
 
