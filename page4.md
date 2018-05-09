@@ -14,8 +14,46 @@
 
 <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/378745776/content?start_page=1&view_mode=scroll&access_key=key-IUllg9JTKAquHnuSisYN&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_94742" width="100%" height="600" frameborder="0"></iframe>
 
+# Hahas
+
+<iframe class="scribd_iframe_embed" title="hahas" src="https://www.scribd.com/embeds/378751291/content?start_page=1&view_mode=scroll&access_key=key-FfH0ChRGp0OADMtQfy0p&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_11334" width="100%" height="600" frameborder="0"></iframe>
+
+# Angrys
+
+<iframe class="scribd_iframe_embed" title="angrys" src="https://www.scribd.com/embeds/378751288/content?start_page=1&view_mode=scroll&access_key=key-3P454N9YBstqsDsAzIOv&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_99751" width="100%" height="600" frameborder="0">
+  
+# Wows
+
+<iframe class="scribd_iframe_embed" title="Wows" src="https://www.scribd.com/embeds/378751290/content?start_page=1&view_mode=scroll&access_key=key-aTINAgnKBvZBhSSOCebG&show_recommendations=true" data-auto-height="true" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_51757" width="100%" height="600" frameborder="0">
+
+# Sads
+
+<iframe class="scribd_iframe_embed" title="Sads" src="https://www.scribd.com/embeds/378751293/content?start_page=1&view_mode=scroll&access_key=key-CXqv2i7CGBQdcL1Iywpy&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_12494" width="100%" height="600" frameborder="0"></iframe>
+
+# Loves
+
+<iframe class="scribd_iframe_embed" title="Loves" src="https://www.scribd.com/embeds/378751289/content?start_page=1&view_mode=scroll&access_key=key-Mmsn7Zob8wK3AiU2ou7r&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_13407" width="100%" height="600" frameborder="0"></iframe>
+
+# Likes
+
+<iframe class="scribd_iframe_embed" title="Likes" src="https://www.scribd.com/embeds/378751292/content?start_page=1&view_mode=scroll&access_key=key-RS2JasruKRche8kWBVr6&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_30947" width="100%" height="600" frameborder="0"></iframe>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ## Images:
 
 ### Renzi
