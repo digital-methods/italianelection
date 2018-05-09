@@ -1,8 +1,10 @@
 # Introduction & Purpose
 
-After the US Election in 2016, Facebook credibility as a democratic platform has declined. As Mashable reported, Facebook could hurt democracy. Thanks to their algorithms, they allowed fake news to be spread throughout the social network and therefore influence the results of the election. While the Social Network platform has been useful in the past for democratic expression and protests – an example of this could be the Arab Spring – at the same time, it risks undermining democracy by presenting to users the same point of view and information. This is particularly true if we take into consideration the fact that the User’s Experience on Facebook is highly personalized through algorithms. As the Harvard professor Cass Sunstein reported to Mashable, “while personalization initially sounds like a positive effort, […] feeding people a single perspective has the potential to be extremely dangerous, even leading to extremist viewpoints and group polarization”. Because of this mechanism, users would in fact only see posts and comments that are very close to what they like. For this reason, if there isn’t clarity on the different viewpoints, there cannot be and informed and democratic discussion. 
-Since Facebook has been proven as a bad democratic platform for the US Elections, we decided to test it for the Italian Elections in 2018. To do so we decided to focus on the comments that users would leave on the posts of the Facebook Page of three of the most prominent candidates of this election: Matteo Renzi from the Democratic Party, Luigi di Maio from the Five Stars Movement and Matteo Salvini from the Northern League. As it will be explained in the following section "Context", the three politicians had very different views and campaigns for the 2018 Elections. The fragmentation of the political scene has, in fact, been confirmed by the results and the lack of coalition to lead the country. 
-Through our study, we want to discover if the users’ comments reflect the topics covered during the campaigns and if they represent the candidates’ points of view. The use of comments for support towards the favorite candidate and for discouragement of the opposition could be a sign that Facebook comments might not be useful for developing an informed debate. 
+After the US Election in 2016, Facebook's credibility as a democratic platform has declined - indeed, as Mashable reported, Facebook could hurt democracy. Their algorithms allowed fake news to disseminate throughout the social network and therefore arguably influence the results of the election. While the Facebook platform has been useful in the past for democratic expression and protests – as seen, for instance, in the Arab Spring – it at the same time risks undermining democracy by presenting to users the same point of view and information. This so-called "filter-bubble" stems from the fact that the user’s experience on Facebook is highly personalized through algorithms. As the Harvard professor Cass Sunstein reported to Mashable, “while personalization initially sounds like a positive effort, […] feeding people a single perspective has the potential to be extremely dangerous, even leading to extremist viewpoints and group polarization”. Because of this mechanism, users would in fact only see posts and comments that are very close to what they like. For this reason, if there is no clarity on the different viewpoints, there cannot be and informed and democratic discussion. 
+
+Since Facebook has proved to be a poor democratic platform for the 2016 US Elections, we decided to test it for the 2018 Italian Elections. Specifically, we examined the comments that users would leave on the posts of the Facebook Page of three of the most prominent candidates of this election: Matteo Renzi from the Democratic Party, Luigi di Maio from the Five Star Movement and Matteo Salvini from the Northern League. As it will be explained in the following section "Context", the three politicians had very different views and campaigns for the 2018 elections. The fragmentation of the political scene has, in fact, been confirmed by the results and the lack of coalition to lead the country. 
+
+Through our study, we hope to discover if the users’ comments reflect the topics covered during the campaigns and if they represent the candidates’ points of view. The use of comments for support towards the favorite candidate and for discouragement of the opposition could be a sign that Facebook comments might not be useful for developing an informed debate. 
 
 
 
@@ -103,5 +105,12 @@ As of today - May 9, 2018 - there is no clear majority. Parties have insofar pro
 ---
 ## References
 
-Sources: Mashable, https://mashable.com/2018/01/22/facebook-social-media-bad-for-democracy/#WNL1KLa8KmqM
-Camera dei Deputati, 2018.
+Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 5, 77–84.
+
+Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet Allocation. Journal of Machine Learning Research, 3, 993–1022.
+
+Camera dei deputati. (2018). XVIII Legislatura. Retrieved May 9, 2018, from http://www.camera.it/leg18/1
+
+DiMaggio, P., Nag, M., & Blei, D. (2013). Exploiting affinities between topic modeling and the sociological perspective on culture: Application to newspaper coverage of U.S. government arts funding. Poetics, 41(6), 570–606. https://doi.org/10.1016/j.poetic.2013.08.004
+
+Gallucci, N. (2018, January 22). Facebook’s taking a deeper look at how social media effects democracy. Retrieved May 9, 2018, from https://mashable.com/2018/01/22/facebook-social-media-bad-for-democracy/
