@@ -124,5 +124,18 @@ In the overall database, we found seven coherent topics.
 
 <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/378742600/content?start_page=1&view_mode=scroll&access_key=key-3vIsqqPBZWu6U3koVAnx&show_recommendations=true" data-auto-height="true" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_81674" width="100%" height="600" frameborder="0"></iframe>
 
-This contingency matrix visualizes the degree to which each topic is correlated to the comments on each politician's page. Blue indicates a negative correlation, red a positive one. The darker the color, the more intense the correlation. If there is an "x" on the rectangle, then it is not statistically significant.
+This contingency matrix visualizes the degree to which each topic is correlated to the comments on each politician's page. Blue indicates a negative correlation, red a positive one. The darker the color, the more intense the correlation. If there is an "x" on the rectangle, then it is not statistically significant. The “XXXXX” topic represents the three incoherent topics in the overall model.
+ 
+Unsurprisingly, we see that Salvini has a high correlation with “Lega Nord”, and Di Maio with “Movimento 5 Stelle”. Renzi is most highly correlated with encouragement. While this could be seen as higher appreciation of Matteo Renzi, it has to be noted that among the topics of the comments of his facebook page, very few were linked to the other topics presented in the contingency matrix since they would fall into the XXX category. 
 
+As for Education and Public Funds, Renzi’s page would still be the one with the highest correlation: as we have seen in the topic modeling, users were highly concerned by the political and economic reforms on his Facebook page, 
+
+
+As for Employment and Retirement, the highest degree would be reached by Di Maio. The Five Star Movement has strongly opposed the Reform proposed by Minister Fornero and it often talked in his campaign about introducing a minimum wage for citizenship. 
+
+Di Maio would have a higher degree for the Anti-Corruption topic as well: the values of the Five Star Movement are based on the opposition to the traditional italian political elite, which is perceived as old and corrupted. 
+
+Overall, it is interesting to notice that the topic of Matteo Salvini and Di Maio are highly centered towards their own party and their rhetoric. Since both the Five Stars Movement and the Northern League has been accused by the press of populism, this could show that their supporters mainly repeated the internal discussions and ideas of the party. The lack of discussion and informed debate could also be caused by Facebook, which personalize the posts and the news stream based on customers’ interests.
+
+
+## REACTIONS
