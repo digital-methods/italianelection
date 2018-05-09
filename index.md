@@ -68,8 +68,6 @@ Special provisions protect the lists representing recognised linguistic minoriti
 
 In the particular case of **Valle d'Aosta**, where one seat to the Chamber of Deputies and one seat to the Senate are allocated, special provisions are in force for the election in both chambers of Parliament: a single-member district is established for the election to the Chamber of Deputies and to the Senate, where the candidate obtaining – through the majority method – the highest number of votes validly cast is elected.
 
-Source: Camera dei Deputati, 2018.
-
 ## Italian Elections: Background
 
 Italians were summoned to the polls on March 4, 2018 in order to elect their new representatives. 
@@ -101,28 +99,6 @@ Indeed, in a stinging defeat for Berlusconi, the anti-immigrant League party hea
 As of today - May 9, 2018 - there is no clear majority. Parties have insofar proven unable to find any workable middle ground to set up a government. Therefore, President Sergio Mattarella could choose to leave in place the current centre-left government of Prime Minister Paolo Gentiloni. This would allow time to set up a temporary government to reform the electoral law and organise new elections.
 
 ---
+## References
 
-## Multimedia Content:
-
-
-###  videos
-
-Embedding Youtube content:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rZwNb11n9zk" frameborder="0" allowfullscreen></iframe>
-
-### texts
-
-Adding a pdf:
-
-<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/341852935/content?start_page=1&view_mode=scroll&access_key=key-QBYckJevb4n2sVehoVJU&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
-
-Highlight an excerpt as a block:
-```
-Le vent d'hiver souffle, et la nuit est sombre, 
-Des gémissements sortent des tilleuls ; 
-```
-create a citation withing the text:
-
-> Les squelettes blancs vont à travers l'ombre
-
+Camera dei Deputati, 2018.
