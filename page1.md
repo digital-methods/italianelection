@@ -28,5 +28,13 @@ When looking at the specific cases, this hypothesis eventually turns into **thre
 
 ## Methods 
 
-In order to do that, 
+In order to test these hypothesis, we decided to run topic models using Latent Dirichlet Allocation (LDA) on a corpus of Facebook comments to the posts published by the politicians. Topic modeling algorithms are a tool of machine learning which analyze a textual corpus to identify coherent ‘topics’ and the strength to which they appear in each document. LDA, popularized by Blei, Ng, and Jordan, is a simple topic model. Put simply, it groups terms that appear more frequently than expected by chance to create topics. With the CorText platform, our tool for analysis, the researcher can set a specific number of topics or ask the algorithm to find the optimal number. Due to the size of our database and our interest in the most prominent themes in the comments, topic modelling is an ideal tool.
+
+We compiled the database for each of the politicians individually, and subsequently merged them together to create a separate database of all of the comments. The merged database would serve as a baseline to which the individual politicians could be compared. In other words, by examining the most salient topics in the comments overall, we could compare the topics for each of the politicians and see where they converged and where they differed. After uploading and parsing each of the databases, we created a number of topic models. 
+
+Though we used the built-in “text cleaning” functions to clean the database of stop-words, we still found a considerable portion of meaningless words (e.g., slang, misspellings, etc.) throughout the topics. We decided to refine each of the politician databases to only include words that appear in at least ten percent of the comments. We refined the overall database further, focusing specifically on comments that were themselves commented on. We then created topic models of ten topics for each of these reduced databases. After identifying the coherent topics in the overall database, we ran a contingency matrix between the politicians and the topics. This illustrated the degree to which each of the topics were correlated to comments on each politician’s page.
+
+To examine the sentiments expressed towards each politician, we conducted a sentiment analysis of each of the posts. Unfortunately, the algorithm was completely inaccurate. In order to capture another kind of emotional response, we decided to look at posts that received at least one “reaction”: like, love, angry, ‘haha’, ‘wow’, and sad. After extracting comments with each reaction and forming smaller databases, we created models of ten topics (the optimal number) and corresponding contingency matrices. Please refer to the “Data and Discussion” tab for our results. 
+
+Source: DiMaggio, Nag, and Blei, 2013; Blei, 2012; Blei, Ng, Jordan, 2003
 
