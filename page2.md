@@ -93,7 +93,7 @@ The final topic that we found among the comments on Salvini’s page is the urge
 
 ## OVERALL DATABASE
 
-
+![Shapes_ALL](/italianelection/assets/images/all_shapes.png)
 
 
 ## CONTINGENCY MATRIX
