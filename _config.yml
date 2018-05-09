@@ -5,6 +5,7 @@ menu: [
 {'name': 'Introduction', 'pagename': 'index'},
 {'name': 'Methodology & Research Design', 'pagename': 'page1'},
 {'name': 'Data & Discussion', 'pagename': 'page2'},
+{'name': 'Reactions', 'pagename': 'page3'},
 {'name': 'Limitations & Further Research', 'pagename': 'page4'},
 {'name': 'Conclusion', 'pagename': 'page5'},
 ]
