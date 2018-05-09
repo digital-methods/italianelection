@@ -22,8 +22,6 @@ In the following paragraphs we will analyse each topic for each candidate, in or
 
 ## MATTEO RENZI – Democratic Party 
 
-![Renzi_Shapes](/italianelection/assets/images/renzi_shapes_final.png)
-
 The most discussed topics on Matteo Renzi’s Facebook page through comments were the following: Economy, Movimento 5 Stelle, the Election’s Program, Confrontation with other candidates, Candidate’s Encouragement and Education. We will now analyze each one of them, specifically. 
 
 1. Economy (topic 1): 
@@ -49,8 +47,6 @@ The last topic that we found among the comments on Renzi’s page is Education. 
 
 ## LUIGI DI MAIO – Five Stars Movement
 
-![DiMaio_Shapes](/italianelection/assets/images/dimaio_shapes_final.png)
-
 The five topic that came out in the comment section of Luigi Di Maio’s Facebook page were the following: Movimento 5 Stelle, Candidate’s Encouragement, Vote, Change and Dissatisfaction. 
 As we will see, these topics are very traditional of the Five Star Movement. The party has often based its rhetoric on the urgency to change the Italian political system, which is at the core of the lack of satisfaction of the Italians. 
 
@@ -73,8 +69,6 @@ The last topic among the comments is the feeling of dissatisfaction with the cur
 <iframe src="https://documents.cortext.net/748f/748fd925190b0e593c55d3c36f08434c/75860/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1500" height="800" allowfullscreen></iframe>
 
 ## MATTEO SALVINI – Northern League
-
-![Salvini_Shapes](/italianelection/assets/images/salvini_shapes_final.png)
 
 In the case of Matteo Salvini, the candidate for the Northern League party, we found the six following topics: Retirement Pensions, Taxes, Confrontation with other candidates, Candidate’s Encouragement, Nationalism & Anti-Immigration and Vote. Overall, it is interesting to note that the comments of each topic contain much more confrontational and “attacking” tones, than the comments for the other candidates. In this case they contain swear words, insults. These come up a lot in the topic of retirement, perhaps indicating the people’s anger in this regard.
 
@@ -100,8 +94,6 @@ The final topic that we found among the comments on Salvini’s page is the urge
 
 ## OVERALL DATABASE
 
-![ALL_shapes](/italianelection/assets/images/all_shapes_final1.png)
-
 <iframe src="https://documents.cortext.net/a12d/a12ddd59d285c98788c8155a0d25afa9/75526/vislda.html#topic=0&lambda=0.5&term=" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1500" height="800" allowfullscreen></iframe>
 
 In the overall database, we found seven coherent topics.
@@ -125,12 +117,6 @@ In the overall database, we found seven coherent topics.
 
 
 7. Employment and Retirement (topic 10)
-
-
-
-![Alluviade](/italianelection/assets/images/alluviade_final.png)
-
-_Encouragement of candidates_ is present in the comment sections of all three political figures. _Movimento 5 Stelle_ was found only in Renzi and Di Maio's pages. In contrast, _Employment_ and _Education_ are dominant topics only in, respectively, Salvini's and Renzi's databases.
  
 
 
@@ -153,3 +139,30 @@ Overall, it is interesting to notice that the topic of Matteo Salvini and Di Mai
 
 
 ## REACTIONS
+
+# Hahas
+
+<iframe class="scribd_iframe_embed" title="hahas" src="https://www.scribd.com/embeds/378751291/content?start_page=1&view_mode=scroll&access_key=key-FfH0ChRGp0OADMtQfy0p&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_11334" width="100%" height="600" frameborder="0"></iframe>
+
+The "hahas" were particularly interesting - the highest positive correlations were the topics mentioning the politician of the page, the lowest the other two. This suggests there were a number of mocking posts on the pages, or that critics reacted to supporters' posts often.
+
+# Angrys
+
+<iframe class="scribd_iframe_embed" title="angrys" src="https://www.scribd.com/embeds/378751288/content?start_page=1&view_mode=scroll&access_key=key-3P454N9YBstqsDsAzIOv&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_99751" width="100%" height="600" frameborder="0">
+  
+The only significant correlations were between the polticians and either themselves or their parties. The negative correlation between Salvini and Renzi was also significant.
+  
+# Wows
+
+<iframe class="scribd_iframe_embed" title="Wows" src="https://www.scribd.com/embeds/378751290/content?start_page=1&view_mode=scroll&access_key=key-aTINAgnKBvZBhSSOCebG&show_recommendations=true" data-auto-height="true" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_51757" width="100%" height="600" frameborder="0">
+
+Only two boxes were significant: Salvini with immigration, which was positively correlated, and Salvini with economy, which was negatively correlated. This fits in with his platform.
+
+# Sads
+
+<iframe class="scribd_iframe_embed" title="Sads" src="https://www.scribd.com/embeds/378751293/content?start_page=1&view_mode=scroll&access_key=key-CXqv2i7CGBQdcL1Iywpy&show_recommendations=true" data-auto-height="false" data-aspect-ratio="1.3333333333333333" scrolling="no" id="doc_12494" width="100%" height="600" frameborder="0"></iframe>
+
+The sad reactions were particularly interesting. The highest correlation was between Salvini and Renzi/PD, which could be a result of many factors. Perhaps there were a number of pro- or anti-Renzi comments on Salvini's page that gathered a strong response, or perhaps the comments on Salvini's page were particularly incline towards talking about Renzi's government. It is also possible that many of Salvini's posts were critical of Renzi. Interestingly, only Renzi is positively correlated with sad reactions on Salvini's page, which would fit with this hypothesis.
+
+It is worth nothing that the other two politicians are negatively correlated with the Renzi topic. The opposite is true for Di Maio - he is moderately positively correlated with the topic about him and his party. This also implies that there were perhaps critical comments on his page, or that his posts indicated that he was feeling attacked.
+
