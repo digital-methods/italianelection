@@ -24,3 +24,7 @@ When looking at the specific cases, this hypothesis eventually turns into **thre
 * As for Di Maio (Movimento 5 Stelle), we expected discussions on what seemed to be most important – and controversial – point of his party’s campaign, that of the _basic universal income_. Since that, together with _lower taxes_, this was one of the few prominent topics we could identify, we were interested in exploring what 5 Stars voters also discussed about. 
 * Finally, for Salvini (Lega Nord) our main hypothesis was related to a strong focus on _anti-immigration rhetoric_, which is one of the major stances of the right-wing candidate. In addition, his platform promoted _anti-European stances_, proposals for _lower taxes_ and _pension reforms_: all topics we predicted that would lead the public discourse of his party’s voters.
 
+## Methods 
+
+In order to do that, 
+
