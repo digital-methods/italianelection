@@ -1,4 +1,3 @@
-*
 # Limitations & Further Research
 
 Due to how we compiled our data, we were not able to directly **compare the context of the posts**. Knowing the topics that the individual politicians discussed could explain many of the salient topics in the comment discourse, which is a key area we are missing. Furthermore, by restricting our dataset to only the top 10% most frequent words, we lost some nuances in the data that could have proven interesting. Some more manual input in cleaning our data would have been highly useful.
