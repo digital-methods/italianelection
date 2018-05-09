@@ -70,8 +70,35 @@ In the particular case of **Valle d'Aosta**, where one seat to the Chamber of De
 
 Source: Camera dei Deputati, 2018.
 
+## Italian Elections: Background
+
+Italians were summoned to the polls on March 4, 2018 in order to elect their new representatives. 
+
+### **The parties**
 
 
+More than 20 parties were in the ring, but Italian voters were largely split into three political camps.
+The center-left coalition, dominated by Renzi's Democratic Party and including smaller parties - such as Emma Bonino’s radical party ‘More Europe’;
+The Five-Star Movement - led by 31-year-old Luigi Di Maio. The party has ruled out entering coalitions with other parties in the past.
+A right-wing bloc, mainly constructed by Berlusconi’s ‘Forza Italia’, Salvini’s ‘Northern League’ and Meloni’s ‘Brethrens of Italy’.
+
+### **The issues at stake**
+
+According to CNN, jobs, the economy and security remained major concerns for voters, but one issue has dominated the pre-election debate: immigration.
+More than 600,000 people have arrived by sea from North Africa since 2013 when Italy last went to the polls, including 114,000 in 2017, according to the UN's International Organization for Migration. And the debate over immigration has highlighted tensions ahead of the vote.
+Right-wing parties have pushed an anti-immigration agenda, including the Northern League, which has advocated for mass expulsions and pledged to put "Italians first."
+Berlusconi has warned that the number of migrants in Italy has caused "serious social alarm," and vowed to deport more than 600,000 undocumented migrants.
+Similarly, the populist Five-Star Movement remained an ambiguous stance about immigration, thus leading some commentators to advocating a possible convergence between Di Maio’s and Salvini’s narratives. 
+
+### **The vote**
+
+Italy's general election left the country with a hung parliament in which no single party or coalition commands an overall majority, leaving few options to form a government. As both Berlusconi’s and Renzi’s parties underperformed - although the latter ended up being considered as ‘the great defeated’, thus resigning from the Democratic Party’s Secretariat  - the prospect of a grand coalition between these two forces is no longer feasible.
+Rather, the results left the populist Five-Star Movement (M5S) and the far-right League party in the driving seat as the country looks to cobble together a government with a working majority.
+Indeed, in a stinging defeat for Berlusconi, the anti-immigrant League party headed by Matteo Salvini emerged as the strongest movement within the coalition, taking almost 18 percent of the vote compared to Berlusconi's 14 percent.
+
+### **The post-electoral context: possible scenario**
+
+As of today - May 9, 2018 - there is no clear majority. Parties have insofar proven unable to find any workable middle ground to set up a government. Therefore, President Sergio Mattarella could choose to leave in place the current centre-left government of Prime Minister Paolo Gentiloni. This would allow time to set up a temporary government to reform the electoral law and organise new elections.
 
 ---
 
