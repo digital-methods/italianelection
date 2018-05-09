@@ -8,7 +8,7 @@ In terms of time, we chose to focus on the one month before the date of the elec
 
 Hence, we opted instead to look at the comments of the personalities which led (formally or informally) the current three biggest parties in the Italian Parliament: **Matteo Renzi, Luigi di Maio, and Matteo Salvini**. Considering that politicians post in a smaller amount than newspapers, the scraping turned out to me easier and the interest for the analysis remained. By looking at what supporters or detractors were talking about under their Facebook statuses or shared links, we thought we could get an idea about
 
-> **what issues were brought up** the most by them, and in particular 
+> **what issues were brought up the most by them, and in particular** 
 
 > **whether they reflected the themes offered by the platforms of the politicians**. 
 
